@@ -10,18 +10,17 @@ const listEl = [
 ]
 
 //2.
-// const addEl = prompt('Aggiungi cose da comprare');
-// listEl.push(addEl);
-
-//3.
 let i = 0;
 let message = "";
 
+//3.
 while(i < listEl.length){
   let spesa = listEl[i];
   message += `<li>${spesa}</li>`; i++;
   listGroup.innerHTML=message;
 }
+
+//4.
 console.log(message);
 
 
