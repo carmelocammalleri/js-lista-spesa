@@ -6,7 +6,9 @@ const listEl = [
   'pane',
   'sale',
   'carote',
-  'cipolle'
+  'cipolle',
+  'carta igienica',
+  'uova'
 ]
 
 //2.

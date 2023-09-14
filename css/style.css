@@ -1,0 +1,14 @@
+main {
+  padding: 20px;
+  text-align: center;
+  background-color: cornflowerblue;
+  height: 100vh;
+}
+
+#list {
+  list-style: none;
+  display: inline;
+  color: white;
+  font-size: 1.8rem;
+}
+
